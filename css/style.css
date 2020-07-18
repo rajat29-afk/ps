@@ -1,0 +1,134 @@
+body {
+  margin-top: auto;
+  color: #40514E;
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  position: relative;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h3 {
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+
+}
+a{
+  color: #11999E;
+}
+hr{
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+
+.pro{
+  width: 300px;
+  height: 200px;
+  border-radius: 30%;
+}
+.profile{
+  margin: 100px auto;
+}
+.skills{
+  width: 50%;
+  height: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.java
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.sql{
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+   padding-top: 50px;
+}
+.mango{
+  padding-top: 100px;
+}
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 150px;
+}
+
+.top-cont {
+  position: relative;
+  padding-top: 100px ;
+}
+
+.middle-container {
+  margin: 100px auto;
+
+}
+
+.bottom-container {
+background-color:#251f44;
+padding: 50px 0 20px;
+margin-left: 0;
+margin-right: 0;
+}
+
+.footer-link{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #ffcb74;
+}
+
+.bot{
+margin-bottom: 50px;
+}
+
+.copy{
+  color: #f4f6ff;
+  padding: 10px;
+}
+.code{
+  width: 70%;
+}
+
+
+.button {
+background-color: #6ebfb5;
+border: none;
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+.button:hover{
+  color:#e84a5f;
+}
